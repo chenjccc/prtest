@@ -1,13 +1,21 @@
 ---
-name: Bug 报告（.md模版）
-about: 报告一个问题帮助我们改进
-title: [BUG]
-labels:["bug","documentation","duplicate","enhancement","help wanted"]
-assignees: "f1325"
+name: 缺陷/文档  
+about: 报告一个问题帮助我们改进  
+title: 【缺陷/文档】请输入您的标题  
+labels: ["bug","documentation","duplicate","enhancement","help wanted"]
+assignees:
 ---
 
-### BUG 类型
-<!-- 请描述 BUG 的类型，例如 UI、功能、体验等 -->
+### 问题描述
 
-### 复现步骤
-<!-- 请详细描述 BUG 的复现步骤 -->
+<!-- 
+请在这里描述您遇到的问题
+
+建议提供问题文档链接和截图
+-->
+
+### 期望效果
+
+<!-- 
+请在这里描述您认为无误的效果
+-->
