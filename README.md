@@ -127,5 +127,8 @@ alt="Python 2">
                                           
 增加一行内容  
                                         增加第二行内容
-
-提交PR删除源分支
+                                          
+```python
+if __name__ == "__main__":    
+    print("测试加法：1+2 =", add(1,2))    
+    print("测试乘法：3*4 =", multiply(3,4))
