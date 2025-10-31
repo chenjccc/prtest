@@ -57,3 +57,7 @@ declare namespace lang {
 }
 
 export default lang;
+interface ISendable {}
+}
+
+export default lang;
