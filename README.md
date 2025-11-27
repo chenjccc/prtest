@@ -64,3 +64,30 @@ nknlknfw
 20251114夏侯组要即可  
 20251114夏侯组要即可  第二次提交  
 20251114夏侯组要即可  第三次提交
+
+import os
+from openai import OpenAI
+
+client = OpenAI(
+    base_url="https://api.gitcode.com/api/v5",
+    api_key="uXRVnTpzRMGxazmhG36yZhYe",
+)
+
+stream = client.chat.completions.create(
+    model = "deepseek-ai/DeepSeek-V3",
+    messages = [
+        {
+            "role": "user",
+            "content": "告诉我一个有关宇宙的有趣事实？"
+        }
+    ],
+    stream=True,
+    max_tokens=4096,
+    temperature=0.6,
+    top_p=0.95,
+    top_k=50,
+    frequency_penalty=0,
+    thinking_budget=32768
+)
+for chunk in stream:
+    print(chunk.choices[0].delta.content, end = "")
