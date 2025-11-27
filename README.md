@@ -93,4 +93,9 @@ for chunk in stream:
     print(chunk.choices[0].delta.content, end = "")  
   Although this project is generally licensed under the LGPL-2.1, this license does not apply to applications that utilize the project's services solely through the unmodified interfaces defined in the header files provided specifically for that purpose. Such applications are considered standalone applications and do not constitute Derivative Works under the terms of the LGPL-2.1.
   
-  几节课了记录
+具有广泛的可扩展性，完善的系统服务和调度机制，可快速适应在多种硬件平台上部署运行
+Highly scalable with comprehensive system services and scheduling mechanisms, enabling rapid adaptation for deployment and operation across multiple hardware platforms
+
+
+ 支持CAN/CANFD、LIN、Ethernet多种总线通信，适用不同通信需求和场景
+Support CAN/CANFD, LIN, and Ethernet bus communication protocols, suitable for various communication requirements and scenarios
