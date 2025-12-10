@@ -101,3 +101,5 @@ Highly scalable with comprehensive system services and scheduling mechanisms, en
 Support CAN/CANFD, LIN, and Ethernet bus communication protocols, suitable for various communication requirements and scenarios
 
 忙碌的一天
+
+苹果
