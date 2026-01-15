@@ -1,0 +1,12 @@
+# 这是一个注释。
+# 指定根目录下README文件的Code Owner
+README.md @HZfatcat
+
+# 指定scripts文件夹的Code Owner
+/scripts/ @username
+
+# 指定所有JS文件的Code Owner
+*.js @username
+
+# 指定docs文件夹的多个Code Owners
+/docs/ @username1 @username2
