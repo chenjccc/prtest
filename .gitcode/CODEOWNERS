@@ -1,9 +1,9 @@
 # 这是一个注释。
-# 指定根目录下README文件的Code Owner
-README.md @HZfatcat @luobohu
+# 指定根目录下dev-app-update.yml文件的Code Owner
+dev-app-update.yml @HZfatcat @luobohu
 
-# 指定scripts文件夹的Code Owner
-/scripts/ @username
+# 指定.gitcode文件夹的Code Owner
+/.gitcode/ @gt-chen
 
 # 指定所有JS文件的Code Owner
 *.js @username
