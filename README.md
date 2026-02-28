@@ -1,4 +1,10 @@
+<<<<<<< main
 kjkl  
+
+kjn 
+hjbjn  
+hjbbkjn  
+>>>>>>> main
 jkkm  
 你们可能，NMNNLKM  
 njnkn
