@@ -6,10 +6,18 @@ def hello():
     # 核心计算逻辑
     result = a + b
     return result
+    # 这是注释  
+     if/else  /def  
+     "hello"/'world'  
+     print()/len()  
+     100/3.14  
+     +/=/>
     
     
     
 ```
+﻿# 这是注释  
+ if/else/def"hello"/'world'print()/len()100/3.14+/=/>
 啦啦啦啦啦啦啦啦啦啦啦啦啦  
 77777777  
 HBKJNN  
