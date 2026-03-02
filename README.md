@@ -1,3 +1,6 @@
+```python
+def hello():
+    print("Hello, World!")
 啦啦啦啦啦啦啦啦啦啦啦啦啦  
 77777777  
 HBKJNN  
