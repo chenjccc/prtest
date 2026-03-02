@@ -1,6 +1,15 @@
 ```python
 def hello():
     print("Hello, World!")
+    add(5,8)
+    def add(a, b):
+    # 核心计算逻辑
+    result = a + b
+    return result
+    
+    
+    
+```
 啦啦啦啦啦啦啦啦啦啦啦啦啦  
 77777777  
 HBKJNN  
