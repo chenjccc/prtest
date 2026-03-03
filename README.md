@@ -15,6 +15,38 @@ def hello():
     
 ```
 
+```python linenums
+# 计算两数之和
+def add(a, b):
+    result = a + b
+    print("计算结果：", result)
+    return result
+
+add(5, 8)
+```
+```python linenums=3
+# 计算两数之和
+def add(a, b):
+    result = a + b
+    print("计算结果：", result)
+    return result
+
+add(5, 8)
+```
+**GitCode 渲染效果**：
+代码块左侧会显示 1-7 行的行号，无高亮行，语法高亮按 Python 规则渲染。
+
+#### 2. 进阶用法：自定义起始行号
+```markdown
+```python linenums=3
+# 计算两数之和
+def add(a, b):
+    result = a + b
+    print("计算结果：", result)
+    return result
+
+add(5, 8)
+```
 ﻿# 这是注释  
  if/else/def"hello"/'world'print()/len()100/3.14+/=/>
 啦啦啦啦啦啦啦啦啦啦啦啦啦  
