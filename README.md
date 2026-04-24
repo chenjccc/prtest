@@ -1,12 +1,72 @@
+河南科技哈哈哈哈  
+njmnn ,
+```python
+def hello():
+    print("Hello, World!")
+    add(5,8)
+    def add(a, b):
+    # 核心计算逻辑
+    result = a + b
+    return result
+    # 这是注释  
+     if/else  /def  
+     "hello"/'world'  
+     print()/len()  
+     100/3.14  
+     +/=/>
+    
+```
+
+```python linenums
+# 计算两数之和
+def add(a, b):
+    result = a + b
+    print("计算结果：", result)
+    return result
+
+add(5, 8)
+```
+```python linenums=3
+# 计算两数之和
+def add(a, b):
+    result = a + b
+    print("计算结果：", result)
+    return result
+
+add(5, 8)
+```
+**GitCode 渲染效果**：
+代码块左侧会显示 1-7 行的行号，无高亮行，语法高亮按 Python 规则渲染。
+
+#### 2. 进阶用法：自定义起始行号
+```markdown
+```python linenums=3
+# 计算两数之和
+def add(a, b):
+    result = a + b
+    print("计算结果：", result)
+    return result
+
+add(5, 8)
+```
+﻿# 这是注释  
+ if/else/def"hello"/'world'print()/len()100/3.14+/=/>
+啦啦啦啦啦啦啦啦啦啦啦啦啦  
+77777777  
+HBKJNN  
+<<<<<<< main
+kjkl  
+
 kjn 
 hjbjn  
 hjbbkjn  
+>>>>>>> main
 jkkm  
 你们可能，NMNNLKM  
 njnkn
 好久好久客户
 金口难开几百块
-
+```gdshader
  henhaiya1  
 henhaoya2
 sanwuren1
@@ -15,7 +75,7 @@ njknfkvnf
 # prtest
 能杰克丹尼看见你记录卡
 测试pr相关功能
-
+```
 
 1测试
 啦啦啦啦啦啦
