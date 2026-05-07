@@ -1,3 +1,6 @@
+## Stargazers over time
+
+![Stargazers over time](https://gitcode.com/gitcode-demo/hlytest/starcharts.svg?variant=adaptive)
 河南科技哈哈哈哈  
 njmnn ,
 ```python
