@@ -9,3 +9,4 @@ RESULT_DIR = PROJECT_ROOT / "result_img"
 def ensure_result_dir() -> Path:
     RESULT_DIR.mkdir(parents=True, exist_ok=True)
     return RESULT_DIR
+    return RESULT_DIR
