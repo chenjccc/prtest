@@ -1,4 +1,5 @@
-
+# 指定根目录下dev-app-update.yml文件的Code Owner
+dev-app-update.yml @W_Y_Z
 # 指定所有JS文件的Code Owner
 *.js @W_Y_Z
 
