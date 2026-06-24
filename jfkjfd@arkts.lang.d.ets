@@ -1,4 +1,4 @@
-nmn ,m namespace还不加班
+交换机nmn ,m namespace还不加班
  帮您内部
  不好解决可不能 
 kjbnjknk 
