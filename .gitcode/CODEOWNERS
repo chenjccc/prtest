@@ -6,7 +6,7 @@ dev-app-update.yml @HZfatcat @luobohu @panchenxi29
 /.gitcode/ @gt-chen
 
 # 指定所有JS文件的Code Owner
-*.js @username
+*.py @username @duxin @luobohu
 
 # 指定docs文件夹的多个Code Owners
 /docs/ @username1 @username2
