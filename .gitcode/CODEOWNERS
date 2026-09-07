@@ -1,6 +1,6 @@
 # 这是一个注释。
 # 指定根目录下dev-app-update.yml文件的Code Owner
-dev-app-update.yml @HZfatcat @luobohu
+dev-app-update.yml @HZfatcat @luobohu @panchenxi29
 
 # 指定.gitcode文件夹的Code Owner
 /.gitcode/ @gt-chen
